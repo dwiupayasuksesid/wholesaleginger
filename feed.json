@@ -1,0 +1,51 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Wholesale Ginger",
+    "description": "",
+    "home_page_url": "https://dwiupayasuksesid.github.io/wholesaleginger",
+    "feed_url": "https://dwiupayasuksesid.github.io/wholesaleginger/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dwi Upaya Sukses"
+    },
+    "items": [
+        {
+            "id": "https://dwiupayasuksesid.github.io/wholesaleginger/zingiber-officinale-var-officinarum.html",
+            "url": "https://dwiupayasuksesid.github.io/wholesaleginger/zingiber-officinale-var-officinarum.html",
+            "title": "Zingiber officinale var. officinarum",
+            "author": {
+                "name": "Dwi Upaya Sukses"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-22T11:38:27+07:00",
+            "date_modified": "2025-06-22T11:38:27+07:00"
+        },
+        {
+            "id": "https://dwiupayasuksesid.github.io/wholesaleginger/zingiber-officinale-var-amarum.html",
+            "url": "https://dwiupayasuksesid.github.io/wholesaleginger/zingiber-officinale-var-amarum.html",
+            "title": "Zingiber officinale var. amarum",
+            "content_html": "<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Dwi Upaya Sukses"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-22T11:37:43+07:00",
+            "date_modified": "2025-06-22T11:37:43+07:00"
+        },
+        {
+            "id": "https://dwiupayasuksesid.github.io/wholesaleginger/zingiber-officinale-var-rubrum-jahe-merah.html",
+            "url": "https://dwiupayasuksesid.github.io/wholesaleginger/zingiber-officinale-var-rubrum-jahe-merah.html",
+            "title": "Zingiber officinale var. rubrum",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dwiupayasuksesid.github.io/wholesaleginger/media/posts/2/Screenshot-2025-06-22-at-10-24-03-Zingiber-Officinale-Rubrum-Variety-Type-of-Rhizome-Plant-for-Medicinal-and-Spice-Plants-Stock-Image-Image-of-medicative-oils-226514483.png\" alt=\"\" width=\"496\" height=\"280\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://dwiupayasuksesid.github.io/wholesaleginger/media/posts/2/responsive/Screenshot-2025-06-22-at-10-24-03-Zingiber-Officinale-Rubrum-Variety-Type-of-Rhizome-Plant-for-Medicinal-and-Spice-Plants-Stock-Image-Image-of-medicative-oils-226514483-xs.png 384w ,https://dwiupayasuksesid.github.io/wholesaleginger/media/posts/2/responsive/Screenshot-2025-06-22-at-10-24-03-Zingiber-Officinale-Rubrum-Variety-Type-of-Rhizome-Plant-for-Medicinal-and-Spice-Plants-Stock-Image-Image-of-medicative-oils-226514483-sm.png 600w ,https://dwiupayasuksesid.github.io/wholesaleginger/media/posts/2/responsive/Screenshot-2025-06-22-at-10-24-03-Zingiber-Officinale-Rubrum-Variety-Type-of-Rhizome-Plant-for-Medicinal-and-Spice-Plants-Stock-Image-Image-of-medicative-oils-226514483-md.png 768w ,https://dwiupayasuksesid.github.io/wholesaleginger/media/posts/2/responsive/Screenshot-2025-06-22-at-10-24-03-Zingiber-Officinale-Rubrum-Variety-Type-of-Rhizome-Plant-for-Medicinal-and-Spice-Plants-Stock-Image-Image-of-medicative-oils-226514483-lg.png 1200w ,https://dwiupayasuksesid.github.io/wholesaleginger/media/posts/2/responsive/Screenshot-2025-06-22-at-10-24-03-Zingiber-Officinale-Rubrum-Variety-Type-of-Rhizome-Plant-for-Medicinal-and-Spice-Plants-Stock-Image-Image-of-medicative-oils-226514483-xl.png 1600w\"></figure>",
+            "author": {
+                "name": "Dwi Upaya Sukses"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-22T11:36:59+07:00",
+            "date_modified": "2025-06-22T11:37:56+07:00"
+        }
+    ]
+}
